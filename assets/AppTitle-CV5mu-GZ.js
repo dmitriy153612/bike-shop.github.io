@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as s,k as o}from"./index-DtM1jsSZ.js";const n={},r={class:"title"};function a(e,_){return c(),s("h1",r,[o(e.$slots,"default",{},void 0,!0)])}const l=t(n,[["render",a],["__scopeId","data-v-bc6d69c0"]]);export{l as A};
